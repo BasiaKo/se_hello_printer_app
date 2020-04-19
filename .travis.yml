@@ -1,4 +1,6 @@
 language: python
+services:
+  -doker
 install:
   - make deps
 script:
