@@ -88,5 +88,5 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   Makefiled jest glownym plikiem wykonujacym testy
 
   Badge
-  <a href="https://statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/indesx.php?Tranc=49uj1MudLV&Days=1&Design=1"/></a>
+  <a href="https://statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=49uj1MudLV&Days=1&Design=1"/></a>
   [![Build Status](https://travis-ci.org/BasiaKo/se_hello_printer_app.svg?branche=master)](https://travis-ci.org/BasiaKo/se_hello_printer_app)
