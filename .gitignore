@@ -1,4 +1,7 @@
 **/*.pyc
 .cache
 .deb
+test_results.xml
+coverage.xml
+.coverage
 .venv/
