@@ -6,7 +6,6 @@ test:
  stage: test
  script:
    - apt-get install make -qq
-   - apt-get install python-pip -qq
    - make deps
    - make test
 docker:
